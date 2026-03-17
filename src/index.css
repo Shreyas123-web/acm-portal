@@ -1,0 +1,8 @@
+@import "tailwindcss";
+/* Add this to make the background dark like a real ACM site */
+body {
+  margin: 0;
+  background-color: #09090b; /* Zinc-950 */
+  color: white;
+  font-family: sans-serif;
+}
